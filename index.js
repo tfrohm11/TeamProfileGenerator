@@ -84,7 +84,6 @@ const questions = async () => {
               name: "school",
             },
           ])
-          
           const newIntern = new Intern(
             answers.name,
             answers.id,

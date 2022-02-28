@@ -16,14 +16,5 @@
   },
   "directories": {
     "lib": "lib"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GregPetropoulos/Team-Profile-Generator.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/GregPetropoulos/Team-Profile-Generator/issues"
-  },
-  "homepage": "https://github.com/GregPetropoulos/Team-Profile-Generator#readme"
+  }
 }
