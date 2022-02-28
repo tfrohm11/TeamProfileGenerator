@@ -9,3 +9,5 @@
 <img src="./Screen Shot 2022-02-28 at 8.30.22 AM.png">
 
 ### video walkthrough https://www.youtube.com/watch?v=WyXWUawP9fo&ab_channel=ThomasFrohm
+### https://github.com/tfrohm11/TeamProfileGenerator
+### https://tfrohm11.github.io/TeamProfileGenerator/
